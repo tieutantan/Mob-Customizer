@@ -21,7 +21,7 @@ A Minecraft mod for NeoForge 1.21.1 that gives you full control over hostile mob
 
 ## Installation
 
-1. Download the latest `.jar` from [Releases](releases)
+1. Download the latest `.jar` from root directory
 2. Place in your `mods` folder
 3. Launch Minecraft with NeoForge 1.21.1
 
